@@ -1,0 +1,6 @@
+[project]
+name = "project-reader"
+version = "0.1.0"
+description = "Projektin tietojen lukeminen TOML-tiedostosta"
+requires-python = ">=3.14"
+dependencies = ["tomli>=2.0.0"]
